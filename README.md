@@ -29,5 +29,5 @@ Obtain GAIA ID from email address
 </p> 
 
 ## Now you can also use google maps
-- [https://www.google.com/maps/contrib/1234567](https://www.google.com/maps/contrib/104851987580276988239)
+- [https://www.google.com/maps/contrib/1234567/reviews](https://www.google.com/maps/contrib/104851987580276988239/reviews)
   Replace the number on the end with the number from the email you received. 
