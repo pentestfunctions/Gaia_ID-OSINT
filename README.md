@@ -24,6 +24,10 @@ Obtain GAIA ID from email address
 1. Type in the email address
 2. Profit
 
+<p align="center">
+  <img src="examples2.PNG">
+</p> 
+
 ## Now you can also use google maps
 - https://www.google.com/maps/contrib/1234567
   Replace the number on the end with the number from the email you received. 
