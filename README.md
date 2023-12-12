@@ -9,7 +9,10 @@ Obtain GAIA ID from email address
 4. Add a user with any email address. DO NOT ACTUALLY SEND THE INVITE
 5. After their email is converted look in the NETWORK tab
 6. Inspect the network request for Fetch/XHR and search for Lookup
-7. Scroll to the bottom and copy the X-Goog-Api-Key. Also copy the authorization: SAPISIDHASH ( ON THE HEADERS TAB )
+<p align="center">
+  <img src="examples.PNG">
+</p> 
+8. Scroll to the bottom and copy the X-Goog-Api-Key. Also copy the authorization: SAPISIDHASH ( ON THE HEADERS TAB )
 
 - Edit the tampermonkey script with your X-Goog-Api-Key and SAPISIDHASH near the top of the file.
 - DO NOT SHARE THOSE
