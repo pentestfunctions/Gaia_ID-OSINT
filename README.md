@@ -14,12 +14,10 @@ Obtain GAIA ID from email address
 - Edit the tampermonkey script with your X-Goog-Api-Key and SAPISIDHASH near the top of the file.
 - DO NOT SHARE THOSE
 
-### Now head to any of these: 
-- https://peoplestack-pa.clients6.google.com/$rpc/peoplestack.PeopleStackAutocompleteService/Looku
-- https://peoplestack-pa.clients6.google.com
+### Now head to: 
 - https://clients6.google.com
 
-####  On those pages you will see a box we have created.
+####  On there you will see a box we have created.
 1. Type in the email address
 2. Profit
 
