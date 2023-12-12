@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Make a request to Google's PeopleStack Autocomplete Service and extract a specific number from the response using regex
 // @author       Robot
-// @match        https://*peoplestack-pa.clients6.google.com/*
+// @match        https://*clients6.google.com/*
 // @grant        GM_xmlhttpRequest
 // @run-at       document-idle
 // ==/UserScript==
